@@ -3,7 +3,7 @@
 int main() {
     int x = 17;
     int y = 4;
-    printf("x=%d\n y=%d\n",x,y);
+    printf("x=%d\ny=%d\n",x,y);
 
     int sum = x + y;
     printf("sum=%d\n",sum);
@@ -18,5 +18,5 @@ int main() {
     printf("division=%f\n",division);
     
     int RoD = x % y;
-    printf("reamainder of division=%d\n",RoD);
+    printf("remainder of division=%d\n",RoD);
 }

@@ -23,7 +23,7 @@ Fix the code below:
 
 int main() {
   int result;
-  result = (2 + 7) ∗ 9 / 3;
+  result = (2 + 7) * 9 / 3;
   printf("The result is %d\n");
   return 0;
 }
@@ -47,7 +47,7 @@ int main() {
 ```
 
 ---
-**Problem 1.4** Simple arithmetics
+**Problem 1.4** Simple arithmetic
 
 Write a program that:
 
@@ -92,7 +92,7 @@ u=61.2953397
 **Problem 1.6** Printing a char as a character and as a decimal value
 
 Write a program that:
-1. initializes a char variable ***c*** with with 'F'
+1. initializes a char variable ***c*** with 'F'
 2. prints the 3rd character after ***c*** as a character and a decimal
 
 **Desired Output:**

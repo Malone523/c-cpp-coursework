@@ -4,7 +4,7 @@ int main () {
     double a,b;     // the 2 doubles
     scanf("%lf\n %lf",&a,&b); 
 
-    int c,d;    // the 2 integers
+    int c,d;    // the 2 integres
     scanf("%d\n %d",&c,&d);
     int sum_i = c+d, prod_i = c*d;
 

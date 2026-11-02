@@ -6,7 +6,7 @@ int main () {
     scanf("%d",&n);
 
     // checking if input is valid
-    if (n<=0){
+    while (n<=0){
         printf("enter days again = ");
         scanf("%d",&n);
     };

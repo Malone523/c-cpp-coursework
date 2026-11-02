@@ -9,7 +9,7 @@ int main () {
     printf("b = ");
     scanf("%f",&b);
     
-    printf("c = ");
+    printf("h = ");
     scanf("%f",&h);
     
     //printing all the areas
