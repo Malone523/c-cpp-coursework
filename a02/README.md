@@ -112,10 +112,10 @@ Write a program that:
 
 Write a program that:
 
-1. readds two double variables ***x*** and ***y*** from the keyboard
+1. reads two double variables ***x*** and ***y*** from the keyboard
 2. initialize 3 pointers ***ptr_one***, ***ptr_two*** and ***ptr_three***
 3. the first 2 pointers should point to ***x*** and the third to ***y***
-4. using ***printf*** show that ***ptr_one*** and ***ptr_two*** point to the same address and ***ptr_three*** contains a differit address
+4. using ***printf*** show that ***ptr_one*** and ***ptr_two*** point to the same address and ***ptr_three*** contains a different address
    
 
 ---
@@ -159,7 +159,7 @@ The number is divisible by 2 and 7
 
 
 ---
-**Problem 2.9** 
+**Problem 2.9** Character classification
 
 Write a program that:
 
