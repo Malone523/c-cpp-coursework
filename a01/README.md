@@ -82,8 +82,8 @@ Write a program that:
 
 **Desired Output:**
 ```c
-x= 2138
-y= -52.35892
+x=     2138
+y=  -52.35892
 z=G
 u=61.2953397
 ```
