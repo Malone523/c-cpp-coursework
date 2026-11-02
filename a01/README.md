@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment 1 - Fixing and Writing Simple Programs
 
 **Problem 1.1**  Compute division
 
