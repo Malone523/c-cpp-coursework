@@ -3,7 +3,7 @@
 **Problem 1.1**  Compute division
 
 Fix the code below:
-```cpp
+```c
 #include <stdio.h>
 
 int main() {
@@ -18,7 +18,7 @@ int main() {
 **Problem 1.2**  Wrong output
 
 Fix the code below:
-```cpp
+```c
 #include <stdio.h>
 
 int main() {
@@ -33,7 +33,7 @@ int main() {
 **Problem 1.3** Compile error
 
 Fix the code below:
-```cpp
+```c
 include <stdio.h>
 
 int main() {
@@ -60,7 +60,7 @@ Write a program that:
 7. computes the remainder of the division of ***x*** and ***y*** and prints it
 
 **Desired Output:**
-```cpp
+```c
 x=17
 y=4
 sum=21
@@ -81,7 +81,7 @@ Write a program that:
 4. initializes a double variable ***u*** with 61.295339687 and prints it with a floating point precision of 7
 
 **Desired Output:**
-```cpp
+```c
 x= 2138
 y= -52.35892
 z=G
@@ -96,6 +96,6 @@ Write a program that:
 2. prints the 3rd character after ***c*** as a character and a decimal
 
 **Desired Output:**
-```cpp
+```c
 I 73
 ```
