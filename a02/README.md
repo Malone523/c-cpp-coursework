@@ -1,4 +1,4 @@
-# Assignment 2
+# Assignment 2 - Reading from the Keyboard, Using Pointers, Conditions and Loops
 
 **Problem 2.1**  Reading input
 

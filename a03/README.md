@@ -1,4 +1,4 @@
-# Assignment 3
+# Assignment 3 - Loops, Arrays, Functions and Strings
 
 **Problem 3.1**  Printing numbers
 
